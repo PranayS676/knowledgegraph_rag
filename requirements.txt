@@ -1,0 +1,9 @@
+streamlit
+neo4j
+langchain
+sentence-transformers
+networkx
+plotly
+python-dotenv
+pyvis
+pypdf
